@@ -19,6 +19,7 @@ Requirements
 1. **Clone/Download** this repo in any folder in your local drive.
 2. Launch **clone_plottwist_repos.bat**. This batch file will create a new environment variable, will install all dependencies and will download all the Plot Twist available GitHub repositories inside this folder.
 3. **Optional**. If you are going to work with ArtellaPipe related code you can download all ArtellaPipe repositories launching **clonde_artellapipe_repos.bat**.
+4. Once your repos are installed you can move them anywhere in your local drive.
 
 2) Setup Plot Twist development virtual environment
 #######################################################
