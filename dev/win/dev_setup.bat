@@ -6,3 +6,4 @@ call activate
 cd ..
 cd ..
 pip install -r dev_requirements.txt
+pause
