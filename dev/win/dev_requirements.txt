@@ -40,18 +40,8 @@
 -e D:/dev/artellapipe/artellapipe-launcher
 -e D:/dev/artellapipe/artellapipe-launcher-plugins-dccselector
 -e D:/dev/artellapipe/artellapipe-launcher-plugins-artellamanager
--e D:/dev/plottwist/plottwist-tools-outliner
 -e D:/dev/plottwist/plottwist
 -e D:/dev/plottwist/plottwist-config
 -e D:/dev/plottwist/plottwist-bootstrap
 -e D:/dev/plottwist/plottwist-libs-pyblish
-appdirs
-backports.tempfile
-py-cpuinfo
-gputil
-gspread
-oauth2client
-yamlordereddictloader
-Qt.py
-aenum
-slackclient
+-e D:/dev/plottwist/plottwist-tools-outliner
