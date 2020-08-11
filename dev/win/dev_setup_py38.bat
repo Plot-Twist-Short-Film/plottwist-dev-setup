@@ -5,5 +5,5 @@ cd Scripts
 call activate
 cd ..
 cd ..
-"C:\Python38\Scripts\pip.exe" install -r dev_requirements.txt
+pip install -r dev_requirements.txt
 pause
